@@ -50,6 +50,7 @@ A comprehensive Data Engineering capstone demonstrating:
 
 | Project | Technologies |
 |---|---|
+[Enterprise Retail Data Platform](https://github.com/deepak-yermula/enterprise-retail-data-platform)
 | [Retail Sales SQL Analytics](https://github.com/deepak-yermula/retail-sql-analytics) | SQL, SQLite, Python |
 | [Python Incremental ETL Pipeline](https://github.com/deepak-yermula/python-incremental-etl) | Python, SQLite, Automated Testing |
 | [PySpark Medallion Lakehouse](https://github.com/deepak-yermula/pyspark-medallion-lakehouse) | PySpark, Apache Spark, Delta Lake |
