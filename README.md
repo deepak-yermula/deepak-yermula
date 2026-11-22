@@ -23,6 +23,27 @@ My focus is on developing reliable ETL/ELT pipelines, transforming raw data into
 
 ---
 
+## ⭐ Featured Project — Enterprise Retail Data Platform
+
+### [Enterprise Retail Data Platform](https://github.com/deepak-yermula/enterprise-retail-data-platform)
+
+A comprehensive Data Engineering capstone demonstrating:
+
+- Incremental ETL and idempotent processing
+- Bronze, Silver, and Gold data transformations
+- Data quality, deduplication, and quarantine handling
+- Python, SQL, and analytical reporting
+- Automated testing with GitHub Actions
+- Azure Data Factory, Databricks, and Terraform architecture templates
+
+**Validation:** 14 automated tests passed and a successful local pipeline smoke test.
+
+**Deployment:** Local pipeline verified; Azure cloud deployment pending.
+
+[Explore Source Code](https://github.com/deepak-yermula/enterprise-retail-data-platform)
+
+---
+
 
 
 ## 🚀 Data Engineering Projects
@@ -33,27 +54,6 @@ My focus is on developing reliable ETL/ELT pipelines, transforming raw data into
 | [Python Incremental ETL Pipeline](https://github.com/deepak-yermula/python-incremental-etl) | Python, SQLite, Automated Testing |
 | [PySpark Medallion Lakehouse](https://github.com/deepak-yermula/pyspark-medallion-lakehouse) | PySpark, Apache Spark, Delta Lake |
 | [Azure Data Engineering Architecture](https://github.com/deepak-yermula/azure-adf-databricks-architecture) | Azure Data Factory, Databricks, ADLS Gen2 |
-
-### ⭐ Featured Project: Enterprise Retail Data Platform
-
-[View Project on GitHub](https://github.com/deepak-yermula/enterprise-retail-data-platform)
-
-An end-to-end data engineering capstone featuring:
-
-- Incremental ETL and data validation
-- Bronze, Silver and Gold data processing
-- Python and SQL analytics
-- Duplicate handling and data-quality checks
-- Automated CI/CD testing with GitHub Actions
-- Azure Data Factory, Databricks and Terraform templates
-
-✅ 14 automated tests passing
-✅ Local pipeline smoke test passing
-
-Cloud deployment: Architecture templates included; live deployment pending.
-
-
-Project repositories and documentation are being published as part of my ongoing learning portfolio.
 
 ---
 
