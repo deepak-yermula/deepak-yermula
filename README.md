@@ -23,7 +23,6 @@ My focus is on developing reliable ETL/ELT pipelines, transforming raw data into
 
 ---
 
-## 🚀 Data Engineering Projects
 
 
 ## 🚀 Data Engineering Projects
