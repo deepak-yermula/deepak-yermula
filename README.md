@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**deepak-yermula/deepak-yermula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Deepak Yermula 👋
 
-Here are some ideas to get you started:
+### Data Engineer | Vancouver, Canada 🇨🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building practical data engineering solutions using SQL, Python, PySpark, Azure, and Databricks.
+
+My focus is on developing reliable ETL/ELT pipelines, transforming raw data into analytics-ready datasets, and learning modern cloud data architectures.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, PySpark
+
+**Data Engineering:** ETL/ELT, Data Modeling, Apache Spark, Delta Lake
+
+**Cloud & Platforms:** Microsoft Azure, Azure Data Factory, Azure Databricks, ADLS Gen2
+
+**Analytics:** Power BI, SQL Analytics
+
+**Development:** Git, GitHub, Data Validation, Automated Testing
+
+---
+
+## 🚀 Data Engineering Projects
+
+
+## 🚀 Data Engineering Projects
+
+| Project | Technologies |
+|---|---|
+| [Retail Sales SQL Analytics](https://github.com/deepak-yermula/retail-sql-analytics) | SQL, SQLite, Python |
+| [Python Incremental ETL Pipeline](https://github.com/deepak-yermula/python-incremental-etl) | Python, SQLite, Automated Testing |
+| [PySpark Medallion Lakehouse](https://github.com/deepak-yermula/pyspark-medallion-lakehouse) | PySpark, Apache Spark, Delta Lake |
+| [Azure Data Engineering Architecture](https://github.com/deepak-yermula/azure-adf-databricks-architecture) | Azure Data Factory, Databricks, ADLS Gen2 |
+
+Project repositories and documentation are being published as part of my ongoing learning portfolio.
+
+---
+
+## 🎯 Current Goals
+
+- Build complete end-to-end Data Engineering pipelines
+- Gain hands-on experience with Azure and Databricks
+- Master advanced SQL, Python, and PySpark
+- Develop production-oriented data engineering skills
+- Prepare for Data Engineer opportunities in Canada
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** https://github.com/deepak-yermula
+
+**Location:** Vancouver, British Columbia, Canada
